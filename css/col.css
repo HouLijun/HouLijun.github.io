@@ -13,6 +13,7 @@
   font-size: 14px;
   color: #333;
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
   box-sizing: border-box; }
 
 img {
