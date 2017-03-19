@@ -110,7 +110,6 @@ $(document).ready(function() {
 		}else{
 			introduce.removeClass("hidden");
 		}
-		console.log(x);
 		showBox.css({transform: "translate3d(-"+x+", 0, 0)"});
 	})
 	/*项目经验 E */
